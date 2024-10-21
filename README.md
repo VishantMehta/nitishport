@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Nitish Kumar Singh</h1>
 <h3 align="center">This is my Portfolio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-nitish&label=Profile%20views&color=0e75b6&style=flat" alt="user-nitish" /> </p>
